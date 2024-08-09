@@ -34,3 +34,4 @@ C:\Users\nupur\source\repos\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Micr
 C:\Users\nupur\source\repos\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\nupur\source\repos\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\nupur\source\repos\MagicVilla\MagicVilla_VillaAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\nupur\source\repos\MagicVilla\MagicVilla_VillaAPI\obj\Debug\net8.0\MagicVilla_VillaAPI.sourcelink.json
